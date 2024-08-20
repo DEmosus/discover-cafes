@@ -9,9 +9,14 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "airtable": "^0.12.2",
+    "classnames": "^2.5.1",
+    "eslint-plugin-react-hooks": "^5.1.0-rc-fa6eab58-20240815",
+    "next": "14.2.5",
     "react": "^18",
     "react-dom": "^18",
-    "next": "14.2.5"
+    "swr": "^2.2.5",
+    "unsplash-js": "^7.0.19"
   },
   "devDependencies": {
     "eslint": "^8",
